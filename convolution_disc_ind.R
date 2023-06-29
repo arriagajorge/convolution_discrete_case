@@ -53,10 +53,10 @@ convolution_disc_ind <- function(x,y){
 }
 
 # vecs example
-x <- c(0.5,0.4,0.3)
+x <- c(0.5,0.5)
 names(x) <- c(1,2)
 y <- c(0.4, 0.6)
-names(y) <- c(3,4,4)
+names(y) <- c(3,4)
 
 # conv 
 convolution_disc_ind(x,y)
