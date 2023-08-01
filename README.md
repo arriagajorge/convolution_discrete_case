@@ -1,4 +1,4 @@
-With the namednum object in R, it is possible to do convolution in discrete case.
+With namednum object in R, it is possible to do convolution in discrete case.
 
 The following code is how to use this function.
 
