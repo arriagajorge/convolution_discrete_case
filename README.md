@@ -22,4 +22,4 @@ This method works for any vector length. The length of the vectors to be added c
 
 Issues:
 1. Verify that the entry is namednum object.
-2. check that probability vectors sum to one.
+2. Check that probability vectors sum to one.
