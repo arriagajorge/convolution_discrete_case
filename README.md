@@ -20,6 +20,6 @@ convolution_disc_ind(x,y)
 ```
 This method works for any vector length. The length of the vectors to be added can be different.
 
-Issues:
+TODO:
 1. Verify that the entry is namednum object.
 2. Check that probability vectors sum to one.
